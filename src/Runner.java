@@ -5,6 +5,11 @@ public class Runner {
         System.out.println("degisiklik 1"); //ws
 
 
+        //version 2
+        System.out.println("degisiklik yaptim");
+
+
+
 
 
 
