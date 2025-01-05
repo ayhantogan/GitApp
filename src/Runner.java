@@ -19,6 +19,12 @@ public class Runner {
         //version 5
         System.out.println("degisiklik");
 
+        //version 6
+        System.out.println("degisiklik");
+
+        //yeni kodlar ekledim
+        //version 7
+
 
 
 
